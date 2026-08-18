@@ -1,6 +1,6 @@
 # Java Matrices Studies
 
-Studies and exercises about matrices.
+Exercises about matrices.
 
 The exercises are organized into separate folders, with each folder containing a specific exercise and the concept practiced.
 
