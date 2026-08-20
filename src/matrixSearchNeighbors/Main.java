@@ -12,6 +12,7 @@ public class Main {
 
         int m, n;
 
+
         // Input example:
         // 3 4       -> rows, columns
         //10 8 15 12 -> row 1
