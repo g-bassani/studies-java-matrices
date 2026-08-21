@@ -6,7 +6,8 @@ The exercises are organized into separate folders, with each folder containing a
 
 ## Topics
 
-- Sum of matrices
+- Matrix addition
 - Matrix transpose
+- Square and symmetric matrices
 - Matrix search and finding neighboring elements
 
