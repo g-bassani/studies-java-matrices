@@ -1,4 +1,4 @@
-package matricesSum;
+package matrixSum;
 
 import java.util.Locale;
 import java.util.Scanner;

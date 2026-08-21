@@ -6,6 +6,7 @@ The exercises are organized into separate folders, with each folder containing a
 
 ## Topics
 
-- Matrix Search
-- Finding neighboring elements
 - Sum of matrices
+- Matrix transpose
+- Matrix search and finding neighboring elements
+
